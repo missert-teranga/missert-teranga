@@ -1,4 +1,4 @@
-- Développeur Intéropérabilité et RDD
+- Développeur NETSoins/NETVie + Intéropérabilité / RDD
 
 <!---
 missert-teranga/missert-teranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
